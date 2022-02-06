@@ -25,9 +25,6 @@
 
 <p align="center">
   <a href="https://github.com/Budibase/budibase/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Budibase/budibase/total">
-  </a>
-  <a href="https://github.com/Budibase/budibase/releases">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Budibase/budibase">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=budibase">
